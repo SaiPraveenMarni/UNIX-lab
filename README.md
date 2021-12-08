@@ -1,2 +1,2 @@
-This is UNIX SHELL PROGRAMMING Lab Repository.
-Weekly Lab programs will be uploaded here!
+#Unix Shell and System Programming-lab
+5th Semester CSE
